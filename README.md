@@ -1,11 +1,11 @@
 # PillPal
 PillPal – Medication Reminder App
 
-Overview
+## Overview
 
 PillPal is an intuitive iOS app designed to help elderly and non-tech-savvy individuals manage their medication schedules efficiently. With color-based reminders and a simple interface, it ensures users never miss a dose. The app allows easy medication tracking with "Taken" and "Skipped" buttons, and customizable reminders.
 
-Features
+## Features
 
 ✅ Simple & Intuitive UI – Designed for ease of use, even for non-tech-savvy users.
 ✅ Color-Based Reminders – Easily identify medications through color-coded tracking.
@@ -13,7 +13,7 @@ Features
 ✅ Automated Alerts – Get timely reminders for scheduled medications.
 ✅ Medication Management – Add, edit, or delete reminders effortlessly.
 
-Tech Stack
+## Tech Stack
 
 Language: Swift
 Framework: SwiftUI
